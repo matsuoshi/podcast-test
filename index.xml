@@ -1,0 +1,51 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd"
+     version="2.0">
+  <channel>
+    <title>(test)アジャイルラジオ</title>
+    <description>
+      アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。
+    </description>
+    <link>http://agileradio.github.io/</link>
+    <pubDate>Mon, 06 Jan 2020 05:17:08 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2020 05:17:08 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
+    <itunes:author>AgileRadio</itunes:author>
+    <itunes:summary>
+      アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。
+    </itunes:summary>
+    <itunes:owner>
+      <itunes:name>アジャイルラジオ</itunes:name>
+      <itunes:email/>
+    </itunes:owner>
+    <itunes:image href="http://agileradio.github.io/assets/img/agileradio_banner_1400x1400.jpg"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Software"/>
+      <itunes:category text="Agile"/>
+    </itunes:category>
+    <item>
+      <title>test1</title>
+      <description>
+        <p>test1</p>
+      </description>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <link>http://agileradio.github.io/2020/01/06/1/</link>
+      <guid isPermaLink="true">http://agileradio.github.io/2020/01/06/1/</guid>
+      <category>Radio</category>
+      <enclosure url="https://drive.google.com/uc?id=1-mWnrZwVnxoM9ljWzDAA7teJnXDggCsW" length="182681"
+                 type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>test2</title>
+      <description>
+        <p>test2</p>
+      </description>
+      <pubDate>Mon, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <link>http://agileradio.github.io/2020/01/06/1/</link>
+      <guid isPermaLink="true">http://agileradio.github.io/2020/01/06/1/</guid>
+      <category>Radio</category>
+      <enclosure url="https://drive.google.com/uc?id=1D4lHNzOmLvB7pZtfYmsZAIxbT4qE_llp" length="65050"
+                 type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
